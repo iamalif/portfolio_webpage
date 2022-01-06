@@ -15,7 +15,7 @@ p {
 
 .flex-box {
   display: flex;
-  margin-bottom: 100px;
+  margin-bottom: 50px;
 }
 
 .sec-1 {
@@ -53,6 +53,7 @@ a {
 .sec-2 {
   width: 28%;
   padding-left: 3%;
+  padding-right: 3%;
   background-color: bisque;
   border: 2px solid black;
   border-radius: 25px;
@@ -76,4 +77,22 @@ h2 {
 
 .sec-1 h2 {
   text-align: left;
+}
+
+h3 {
+  font-size: 40px;
+}
+
+footer {
+  background-color: black;
+  color: white;
+  height: 200px;
+  width: 100%;
+  text-align: center;
+  padding-top: 20px;
+  margin-bottom: 0;
+}
+
+.final-image {
+  height: 70%;
 }
