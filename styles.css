@@ -32,6 +32,7 @@ p {
   border-image: linear-gradient(orange, blue);
   border-image-slice: 1;
   width: 100%;
+  padding-left: 25px;
 }
 
 .left-border h1 {
